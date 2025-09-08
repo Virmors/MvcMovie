@@ -1,8 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Internal;
 using MvcMovie.Data;
-using MvcMovie.Models;
-using MvcMovie.Services;
+using MvcMovie.Features.Movies.Services;
 using System;
 using System.Runtime.Intrinsics.Arm;
 using System.Threading.Tasks;

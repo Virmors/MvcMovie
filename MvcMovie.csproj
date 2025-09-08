@@ -22,4 +22,8 @@
     <Compile Remove="Tests\**\*.cs" />
     <Compile Remove="Tests\**\*.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Views\Movies\" />
+  </ItemGroup>
 </Project>
